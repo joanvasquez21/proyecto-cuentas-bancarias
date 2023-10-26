@@ -26,4 +26,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes 
 - [Maven](https://maven.apache.org/download.cgi)
 - [Base de Datos (por ejemplo, MySQL)](https://www.mysql.com/)
 
+## Imagen
+![image](https://github.com/joanvasquez21/proyecto-cuentas-bancarias/assets/70104624/d0d5922f-d612-4208-a7c1-e2d488c6f437)
 
+##
