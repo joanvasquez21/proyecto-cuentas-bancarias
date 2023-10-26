@@ -9,28 +9,22 @@ Mi proyecto es una aplicación web desarrollada en Spring Boot con la interfaz d
 
 ## Cómo funciona
 
-1. **Iniciar Sesión:** Los usuarios pueden iniciar sesión con sus credenciales.
+1. **Ver tipo de cuenta:** Los usuarios pueden visualizar el tipo de cuenta bancaria
 
-2. **Ver Saldo:** Una vez que los usuarios inician sesión, pueden ver el saldo en sus cuentas bancarias.
+2. **Ver Saldo:** Los usuarios pueden ver el saldo en sus cuentas bancarias.
 
-3. **Editar Información:** Los usuarios tienen la capacidad de editar su información personal, como nombre, dirección, etc.
+3. **Editar Información:** Los usuarios tienen la capacidad de editar su información personal, como el dinero, tipo de cuenta, etc.
 
 4. **Eliminar Cuenta:** Los usuarios pueden optar por eliminar su cuenta si lo desean.
 
-5. **Agregar Nuevo Usuario:** Los administradores pueden agregar nuevos usuarios a la aplicación.
+5. **Agregar Nuevo Usuario:** Se puede agregar nuevos usuarios a la aplicación.
 
 ## Requisitos
 
 Antes de ejecutar la aplicación, asegúrate de tener instalados los siguientes requisitos:
 
-- [Java 8+](https://www.oracle.com/java/technologies/javase-downloads.html)
+- [Java 21+](https://www.oracle.com/java/technologies/javase-downloads.html)
 - [Maven](https://maven.apache.org/download.cgi)
 - [Base de Datos (por ejemplo, MySQL)](https://www.mysql.com/)
 
-## Configuración
 
-1. Clona el repositorio de este proyecto:
-
-   ```shell
-   git clone https://github.com/tu-usuario/tu-proyecto.git
-   cd tu-proyecto
