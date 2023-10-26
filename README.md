@@ -1,5 +1,4 @@
-# proyecto-cuentas-bancarias
-# Mi Proyecto - Aplicación Bancaria con Spring Boot y JoinFaces
+# Mi cuenta bancaria web - Aplicación Bancaria con Spring Boot y JoinFaces
 
 ![GitHub](https://img.shields.io/badge/GitHub-Searcher-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green)
